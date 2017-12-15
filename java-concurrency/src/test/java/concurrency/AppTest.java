@@ -1,4 +1,4 @@
-package pom;
+package concurrency;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
